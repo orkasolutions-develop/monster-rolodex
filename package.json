@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://orkasolutions-develop.github.com/monster-rologex",
+  "homepage": "https://orkasolutionscz.github.com/monster-rolodex",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/styles": "^4.10.0",
